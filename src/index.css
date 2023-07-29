@@ -1,0 +1,17 @@
+:root {
+  --primaryColor: #1f1f25;
+  --secondaryColor: #272c35;
+  --tertiaryColor: #1C82AD;
+  --quaternaryColor: #03C988;
+  --selectionColor: rgba(111, 255, 233, 0.2);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Ubuntu", sans-serif;
+}
+
+body {
+  font-size: 100%;
+}
