@@ -1,13 +1,10 @@
-import { Sandpack } from "@codesandbox/sandpack-react";
-import Navbar from "./components/Navbar/Navbar.jsx";
-import Hero from "./components/Hero/Hero.jsx";
+import Website from "./components/Website/Website.jsx";
 import './App.css';
 
 function App() {
   return (
     <>
-       <Navbar />
-       <Hero />
+       <Website />
     </>
   )
 }
