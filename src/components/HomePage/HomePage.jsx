@@ -11,7 +11,7 @@ const HomePage = () => {
           <div className="hero-content">
             <h1>welcome to the cod<span>e</span>ditor</h1>
             <p>Create, edit, and run your web  projects `in` a powerful and user-friendly environment.</p>
-            <button onClick={() => { navigate("/playground") }} class="cta-button">Get Started</button>
+            <a href="https://codeditor-v2.onrender.com/"><button class="cta-button">Get Started</button></a>
           </div>
         </section> 
       </header>
